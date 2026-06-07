@@ -1,2 +1,3 @@
 # RajatSP1
-My 1st
+This is my first repository
+Author : Rajat S Pandit
